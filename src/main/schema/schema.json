@@ -1,0 +1,24 @@
+{"BIGQUERY" : [
+  {
+    "mode": "nullable",
+    "name": "shopId",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "campaignId",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "articleId",
+    "type": "string"
+  },
+  {
+    "mode": "nullable",
+    "name": "lineName",
+    "type": "string"
+  }
+
+]
+}
